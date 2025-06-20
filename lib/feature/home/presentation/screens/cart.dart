@@ -15,13 +15,16 @@ class CartPage extends StatelessWidget {
 
     return Scaffold(
       backgroundColor: Colors.white,
-      appBar: AppBar(title: Text(
+      appBar: AppBar(
+        centerTitle: true,
+        title: Text(
           "My Favorites",
           style: TextStyle(
             fontSize: getResponsiveFontSize(context: context, fontSize: 23),
             fontWeight: FontWeight.bold,
           ),
-        ),),
+        ),
+      ),
       body: BlocBuilder<FavoriteBloc, FavoriteState>(
         builder: (context, state) {
           if (state is FavoriteLoaded) {
