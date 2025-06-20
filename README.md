@@ -23,6 +23,7 @@ Flutter e-commerce app with clean UI, favorites system, and Firebase authenticat
 |------------|-----------|
 | ![](assets/preview/home_page.png) | ![](assets/preview/card_page.png) |
 
+
 ---
 
 ## ✅ Features
