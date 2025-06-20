@@ -1,16 +1,40 @@
-# simple_e_commerce_app
+# 🛍️ simple_e_commerce_app
 
-A new Flutter project.
+Flutter e-commerce app with clean UI, favorites system, and Firebase authentication.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎬 Preview
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Splash Screen → Onboarding Pages → Sign In / Sign Up → Home Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✅ Features
+
+-  Splash Screen == > When running the application
+-  3 (Onboarding). == > 3 introductory pages
+- (Sign In). == > To Login 
+- (Sign Up).  == > To Register 
+- (Home Page)  == >  Fast responsive UI.+  Fully synchronized using Bloc and Hive . clean architecture + When you click the heart button ❤️, the product is added to the cart page
+
+---
+
+## 🧠 Architecture
+
+- ✅ Clean Architecture (Presentation, Domain, Data layers)
+- 🧠 BLoC for State Management (flutter_bloc)
+- 🔐 FirebaseAuth for login/register
+- 🗃 Hive for local storage (favorites)
+- 🎨 MediaQuery TO make Responsive UI
+
+---
+
+## 🚀 Get Started
+
+```bash
+git clone https://github.com/AhmedMohamed195/-AUVNET-Flutter-Internship-Assessment.git
+cd Simple E-commerce App
+flutter pub get
+flutter run
