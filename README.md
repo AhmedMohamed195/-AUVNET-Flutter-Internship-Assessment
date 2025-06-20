@@ -9,6 +9,20 @@ Flutter e-commerce app with clean UI, favorites system, and Firebase authenticat
 
 - Splash Screen → Onboarding Pages → Sign In / Sign Up → Home Page
 
+## 📸 Screenshots
+
+| Splash Page | Onboarding Page |
+|-------------|-----------------|
+| ![](assets/preview/splash-page.png) | ![](assets/preview/onboarding-page.png) |
+
+| Sign In Page | Sign Up Page |
+|--------------|--------------|
+| ![](assets/preview/sign_in-page.png) | ![](assets/preview/sign_up-page.png) |
+
+| Home Page | Cart Page |
+|------------|-----------|
+| ![](assets/preview/home_page.png) | ![](assets/preview/card_page.png) |
+
 ---
 
 ## ✅ Features
